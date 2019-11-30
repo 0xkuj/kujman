@@ -61,3 +61,6 @@ Description: Enable ECG for unsupported countries.
  
  Tested on: Apple Watch 5 + iPhone X on iOS 13.2.3
  
+Depends:firmware (>= 12)
+
+ 
