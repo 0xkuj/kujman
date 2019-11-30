@@ -1,0 +1,14 @@
+Package: com.kuj.ECGsupport
+Name: ECG Support
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: test
+Maintainer: Kuj kujmank@gmail.com
+Author: 0xkuj
+Section: Utility
+Depends: 
+Filename: debs/com.kuj.ECGsupport.deb
+Size: 4096 bytes
+MD5sum: 430fd9f31cd92cee165bd0f5e3cf397a
+SHA1: 53fb9f826f3e2aa0816d6677c8768d1d4c669d2b
+SHA256: fa710d30ab89c724a8adea656a66eef312ea08a5ba1ae49cab393a1fb92e4d06
