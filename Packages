@@ -2,11 +2,65 @@ Package: com.kuj.ECGsupport
 Name: ECG Support
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: test
+Description: Enable ECG for unsupported countries.
+ *********** ATTENTION *********** 
+ THIS TWEAK WILL WORK ONLY ON APPLE WATCHES THAT WERE BOUGHT FROM ECG-SUPPORTED COUNTRIES! 
+ 
+ **** This tweak requires REBOOT after installation!
+ **** Please read instructions before installing this tweak! 
+ 
+ 
+ Compatibility: Apple Watch Series 4/5
+ 
+ Full Instructions:
+  
+ 1. Unpair your Apple watch
+ 2. Install this tweak
+ 3. Reboot after tweak is installed
+ 4. Jailbreak your iPhone
+ 5. Re-pair your Apple watch
+ 6. Enable the ECG feature
+ 7. Enjoy
+ 
+ List of countries that are ECG-suported according to Apple official information:
+ - Austria
+ - Belgium
+ - Canada
+ - Croatia
+ - Czech Republic
+ - Denmark
+ - Finland
+ - France
+ - Germany
+ - Greece
+ - Guam
+ - Hong Kong
+ - Hungary
+ - Iceland
+ - India
+ - Ireland
+ - Italy
+ - Luxembourg
+ - Netherlands
+ - Norway
+ - Poland
+ - Portugal
+ - Puerto Rico
+ - Romania
+ - Singapore
+ - Slovakia
+ - Spain
+ - Sweden
+ - Switzerland
+ - United Kingdom
+ - United States
+ - US Virgin Islands
+ 
+ Tested on: Apple Watch 5 + iPhone X on iOS 13.2.3
 Maintainer: Kuj kujmank@gmail.com
 Author: 0xkuj
 Section: Utility
-Depends: 
+Depends:firmware (>= 12) 
 Filename: debs/com.kuj.ECGsupport.deb
 Size: 4096 bytes
 MD5sum: 430fd9f31cd92cee165bd0f5e3cf397a
