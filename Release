@@ -5,4 +5,101 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My github repo  
+Description: Enable ECG for unsupported countries AW 4+.
+*********** ATTENTION ***********
+
+THIS TWEAK WILL WORK ONLY ON APPLE WATCHES THAT WERE BOUGHT FROM ECG-SUPPORTED COUNTRIES!
+
+**** This tweak requires REBOOT after installation!
+
+**** Please read instructions BEFORE installing this tweak!
+
+Compatibility: Apple Watch Series 4/5
+
+Full Instructions:
+
+Unpair your Apple watch
+
+Install this tweak
+
+Reboot after tweak is installed (some users reported ldrestart is enough - I will add this later)
+
+Jailbreak your iPhone
+
+Re-pair your Apple Watch (do not restore from backup your apple watch)
+
+Enable the ECG feature
+
+Enjoy
+
+List of countries that are ECG-supported according to Apple official information:
+
+- Austria
+
+- Belgium
+
+- Canada
+
+- Croatia
+
+- Czech Republic
+
+- Denmark
+
+- Finland
+
+- France
+
+- Germany
+
+- Greece
+
+- Guam
+
+- Hong Kong
+
+- Hungary
+
+- Iceland
+
+- India
+
+- Ireland
+
+- Italy
+
+- Luxembourg
+
+- Netherlands
+
+- Norway
+
+- Poland
+
+- Portugal
+
+- Puerto Rico
+
+- Romania
+
+- Singapore
+
+- Slovakia
+
+- Spain
+
+- Sweden
+
+- Switzerland
+
+- United Kingdom
+
+- United States
+
+- US Virgin Islands
+
+Tested on: Apple Watch 5 + iPhone X on iOS 13.2.3
+
+** Would love to hear from you guys how the instructions and if you have any problems.
+
+** If you want to buy me beer: https://www.paypal.me/0xkuj
