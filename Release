@@ -5,7 +5,7 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Enable ECG for unsupported countries AW 4+.
+Description: Enable ECG for unsupported countries AW 4+
 *********** ATTENTION ***********
 
 THIS TWEAK WILL WORK ONLY ON APPLE WATCHES THAT WERE BOUGHT FROM ECG-SUPPORTED COUNTRIES!
